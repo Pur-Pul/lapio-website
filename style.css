@@ -1,1 +1,30 @@
-p { background-color: red; }
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: brown;
+}
+
+h3 {
+  color: orange;
+}
+
+ul {
+  color: orange;
+}
+
+#purple-part {
+  color: purple;
+}
+#red-part {
+  color: red;
+}
+
+a {
+  color: orange;
+}
+
+p {
+  color: orange;
+}
