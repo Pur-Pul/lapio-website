@@ -3,20 +3,44 @@
   height: 100px;
   background-color: red;
   position: absolute;
+  border-style: solid;
+  border-width: 20px;
+  text-transform: uppercase;
+  color: blue;
+  border-color: green;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.2em;
 }
 
 .second-box {
   width: 200px;
   height: 100px;
   background-color: yellow;
-  left: 250px;
+  left: 300px;
   position: absolute;
+  border-style: solid;
+  border-width: 20px;
+  text-transform: uppercase;
+  color: blue;
+  border-color: red;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.2em;
 }
 
 .third-box {
   width: 200px;
   height: 100px;
   background-color: green;
-  left: 500px;
+  left: 600px;
   position: absolute;
+  border-style: solid;
+  border-width: 20px;
+  text-transform: uppercase;
+  color: blue;
+  border-color: yellow;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.2em;
 }
